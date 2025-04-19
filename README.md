@@ -1,4 +1,4 @@
-[![MasterHead](https://hypersense-software.com/blog/wp-content/uploads/2023/07/Blog_post-1920x1080-Flutter-Web.jpg)]
+![MasterHead](https://hypersense-software.com/blog/wp-content/uploads/2023/07/Blog_post-1920x1080-Flutter-Web.jpg)
 
 <h1 align="center">Hi, I'm Trần Phúc Huynh</h1>
 <h3 align="center">A passionate mobile developer from Vietnamese</h3>
