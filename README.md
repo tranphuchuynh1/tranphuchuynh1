@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://fb.com/thttps://www.facebook.com/profile.php?id=100068723014304&locale=vi_vn](https://www.facebook.com/huynhcongtu2.10)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thttps://www.facebook.com/profile.php?id=100068723014304&locale=vi_vn" height="30" width="40" /></a>
+<a href="https://www.facebook.com/huynhcongtu2.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thttps://www.facebook.com/profile.php?id=100068723014304&locale=vi_vn" height="30" width="40" /></a>
 <a href="https://instagram.com/phuchuynh.jr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="phuchuynh.jr" height="30" width="40" /></a>
 <a href="[https://www.youtube.com/c/https://www.youtube.com/@huynhtranmobiledeveloper](https://www.youtube.com/@huynhtranmobiledeveloper)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@huynhtranmobiledeveloper" height="30" width="40" /></a>
 </p>
