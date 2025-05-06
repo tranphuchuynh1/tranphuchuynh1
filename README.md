@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tranphuchuynh1&label=Profile%20views&color=0e75b6&style=flat" alt="tranphuchuynh1" /> </p>
 
-- 💬 Ask me about **Android, IOS,ETC.**
+- 💬 Ask me about **Android, IOS, ETC.**
 
 - 📫 How to reach me **tranphuchuynh1@gmail.com**
 
